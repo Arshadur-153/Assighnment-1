@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* header start*/
+
 .introduction {
     width: 1440px;
     height: 652px;
@@ -6,3 +10,56 @@
     background-repeat: no-repeat;
     margin: 0 auto;
 }
+
+.introduction .intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 26px;
+    margin-left: 221px;
+    margin-right: 221px;
+    margin-top: 26px;
+    margin-bottom: 44px;
+}
+.introduction .intro img{
+width: 240.28px;
+height: 240px;
+}
+.introduction .intro h1{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 37px;
+font-weight: 800;
+line-height: 68px;
+text-align: center;
+padding-top: 10px;
+}
+.introduction .intro p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+padding-left: 73px;
+padding-right: 73px;
+margin-top: 0px;
+}
+.introduction .intro button{
+cursor: pointer;
+margin-top: 12px;
+border-radius: 8px;
+background: rgb(13, 19, 33);
+width: 208px;
+height: 66px;
+color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+/*header end*/
+    
