@@ -1,0 +1,8 @@
+.introduction {
+    width: 1440px;
+    height: 652px;
+    background-image: url(images/Hero-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
