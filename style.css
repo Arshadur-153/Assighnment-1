@@ -300,6 +300,7 @@ line-height: 37px;
 text-align: center;
 }
 .inspiration .writing p{
+    margin-top: 24px;
 color: rgb(13, 19, 33);
 font-family: Azeret Mono;
 font-size: 16px;
@@ -336,7 +337,7 @@ text-align: center;
     text-align: center;
 }
 .current p{
-margin-top: 8px;
+margin-top: 24px;
 color: rgb(13, 19, 33);
 font-family: Azeret Mono;
 font-size: 16px;
