@@ -5,6 +5,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+html{
+    scroll-behavior: smooth;
+}
 /* header start*/
 
 .introduction {
@@ -49,6 +52,7 @@ text-align: center;
 padding-left: 73px;
 padding-right: 73px;
 margin-top: 0px;
+margin-bottom: 55px;
 }
 .introduction .intro button{
 cursor: pointer;
@@ -570,5 +574,5 @@ text-align: center;
     padding-left: 24px;
     padding-right: 24px;
 }
-/*footer*/
+/*footer end*/
     
